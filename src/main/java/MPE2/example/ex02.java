@@ -27,7 +27,6 @@ public class ex02 {
 
         //Output String
         String outputString = name + " has " + count + " characters.";
-
         //Output
         System.out.println(outputString);
     }
