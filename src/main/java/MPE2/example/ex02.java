@@ -25,8 +25,10 @@ public class ex02 {
                 count++;
         }
 
+        //Output String
         String outputString = name + " has " + count + " characters.";
 
+        //Output
         System.out.println(outputString);
     }
     //main method end
